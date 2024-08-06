@@ -1,0 +1,213 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*THE MAIN DIV*/
+.parent{
+	
+	border: 1px solid  hsl(30, 54%, 90%);
+	width: 1440px;
+	height: 2200px;
+	background-color: hsl(30, 54%, 90%);
+}
+
+/*THE END OF THE MAIN DIV*/
+
+
+/*THE SECTION DIV*/
+
+.sub_section{
+	
+	border: 1px solid hsl(0, 0%, 100%);
+	width: 1000px;
+	height: 2100px;
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 20px;
+	
+}
+
+/*END OF THE SECTION DIV*/
+
+/*.luck{
+	border: 1px solid red;
+	width: 1440px;
+	height: 1000px;
+	background-color: hsl(30, 54%, 90%);
+}
+
+.pay{
+	border: 1px solid black;
+	width: 1000px;
+	height: 900px;
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 20px;
+}*/
+
+img{
+	margin-top: 25px;
+	border-radius: 25px;
+}
+
+.free{
+	font-family: Young-serif;
+	font-weight: bold;
+	font-size: 40px;
+	margin-left: -520px;
+	margin-top: 20px;
+}
+
+/*TOP PARAGRAPH*/
+
+.post{
+	font-family: Verdana;
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+/*END OF TOP PARAGRAPH*/
+
+
+
+
+/*PREPARATION TIME DIV*/
+.boj{
+	border: 1px solid #FFF7FC;
+	width: 900px;
+	height: 180px;
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 20px;
+	background-color: #FFF7FC;
+}
+
+/*END OF PREPARATION TIME DIV*/
+
+
+
+/*PREPARATION TIME TEXT*/
+
+.flow{
+	text-align: left;
+	margin-top: 20px;
+	color: #6C2541;
+	font-weight: bold;	
+	font-size: 20px;
+	font-family: Sans-Serif;
+}
+
+/*END OF PREPARATION TIME TEXT*/
+
+/*Unordered list*/
+
+.let{
+	text-align: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	font-family: Verdana;
+}
+/*END of the list*/
+
+
+/*Ingredient DIV*/
+.said{
+	border: 1px solid #FFFFF;
+	width: 950px;
+	height: 250px;
+	margin: auto; 
+	margin-top: 25px;
+}
+
+/*END of Ingredient DIV*/
+
+
+/*INGREDIENT HEADING*/
+
+.wix{
+	text-align: left;
+	color: #6C2541;
+	font-weight: bold;	
+	font-size: 30px;
+	font-family: Young-Serif;
+}
+
+/*END OF INGREDIENT HEADING*/
+
+hr {
+    width: 90%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the HR */
+}
+
+/*INSTRUCTIONS DIV*/
+
+.rome{
+	border: 1px solid #FFFFFF;
+	width: 950px;
+	height: 500px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+/*INSTRUCTIONS HEADING*/
+
+h2{
+	text-align: left;
+	color: #6C2541;
+	font-weight: bold;	
+	font-size: 30px;
+	font-family: Young-Serif;
+}
+
+.pack{
+	text-align: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+/*INSTRUCTIONS TO NOTE*/
+
+h3{
+	margin: left;
+	margin-left: -800px;
+	margin-top: 20px;
+	font-family: Young-Serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+p{
+	font-family: Sans-Serif;
+	margin-top: 10px;
+}
+
+/*NUTRITION DIV*/
+
+.orient{
+	border: 1px solid black;
+	width: 950px;
+	height: 500px;
+	margin: auto;
+	margin-top: 30px;
+}
+
+/*END OF NUTRITION DIV8/
+
+
+
+/*NUTRITION PARAGRAPH*/
+
+.sign{
+	
+	text-align: left;
+	margin-left: 5px;
+	font-size: 16px;
+	font-family: Young-Serif;
+}
+
+/*END OF NUTRITION PARAGRAPH*/
